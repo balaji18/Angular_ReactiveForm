@@ -1,0 +1,51 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Mark5",
+      "contactPreference": "email",
+      "email": "balaji@pragimtech.com",
+      "phone": "456636363",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experienceInYears": 3,
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "Rajesh",
+      "contactPreference": "email",
+      "email": "Rajesh@pragimtech.com",
+      "phone": "152553635",
+      "skills": [
+        {
+          "skillName": "React",
+          "experienceInYears": "2",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "Angular",
+          "experienceInYears": "3",
+          "proficiency": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "Raju",
+      "contactPreference": "phone",
+      "email": "raju@pragimtech.com",
+      "phone": "827487387587",
+      "skills": [
+        {
+          "skillName": "Java",
+          "experienceInYears": "2",
+          "proficiency": "beginner"
+        }
+      ]
+    }
+  ]
+}
